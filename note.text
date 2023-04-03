@@ -5,6 +5,7 @@ $ yarn add three
 react
 $ yarn add @react-three/fiber @react-three/drei
 $ yarn add react-color 
+
 $ yarn add framer-motion
 
 math helper
