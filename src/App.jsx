@@ -32,4 +32,7 @@ function App() {
   )
 }
 
+
+// Link: https://www.youtube.com/watch?v=ZqEa8fTxypQ
+// Time: 11:26
 export default App
