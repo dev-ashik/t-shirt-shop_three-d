@@ -3,7 +3,6 @@ import Home from "./pages/Home";
 import Canvas from "./canvas";
 import Customizer from "./pages/Customizer";
 
-
 function App() {
   return (
     <main className="app transition-all ease-in">
@@ -15,5 +14,5 @@ function App() {
 }
 
 // Link: https://www.youtube.com/watch?v=ZqEa8fTxypQ
-// Time: 21:12
+// Time: 33:1
 export default App;
