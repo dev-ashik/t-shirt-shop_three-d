@@ -6,6 +6,7 @@ import { easing } from "maath";
 
 const CameraRig = ({ children }) => {
   const group = useRef();
+//   console.log(group)
   const snap = useSnapshot(state);
 
   useFrame((state, delta) => {
